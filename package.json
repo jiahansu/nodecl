@@ -1,24 +1,23 @@
 {
-    "name": "x265js",
-    "version": "0.7.1-2",
-    "description": "An implementation of the JavaScript bindings for open source x265 encoder",
+    "name": "nodecl",
+    "version": "0.1.2-1",
+    "description": "An implementation of the JavaScript bindings for OpenCL",
     "keywords": [
-        "x265",
-        "HEVC",
-        "encoder",
-        "4K"
+        "OpenCL",
+        "BridJS",
+        "GPGPU"
     ],
-    "main": "./lib/x265",
+    "main": "./lib/nodecl",
     "author": {
         "name": "Jia-Han Su",
         "email": "jiahan.su@gmail.com"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/jiahansu/x265js.git"
+        "url": "https://github.com/jiahansu/nodecl.git"
     },
     "bugs": {
-        "url": "https://github.com/jiahansu/x265/issues"
+        "url": "https://github.com/jiahansu/nodecl/issues"
     },
     "engines": {
         "node": ">=0.10.8"
@@ -43,7 +42,7 @@
     "browser": {
         "os": false
     },
-    "homepage": "https://github.com/jiahansu/x265js",
-    "_id": "x265@0.7.1-1",
-    "_from": "x265@>=0.7.1-1"
+    "homepage": "https://github.com/jiahansu/nodecl",
+    "_id": "nodecl@0.1.2-1",
+    "_from": "nodecl@>=0.1.2-1"
 }
