@@ -2,3 +2,6 @@ netbeans
 node_modules
 *~
 headers
+
+# IDE
+.idea
